@@ -23,12 +23,12 @@
     },
     "autoload": {
         "psr-4": {
-            "BlueBayTravel\\Mandrill\\": "src"
+            "cjmartin\\Mandrill-laravel5-5\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "BlueBayTravel\\Tests\\Mandrill\\": "tests"
+            "cjmartin\\Tests\\Mandrill-laravel5-5\\": "tests"
         }
     },
     "config": {
